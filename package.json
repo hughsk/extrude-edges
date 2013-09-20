@@ -1,0 +1,27 @@
+{
+  "name": "extrude-edges",
+  "version": "0.0.0",
+  "description": "Takes a 2D shape and generates the sides of an extruded mesh.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/extrude-edges.git"
+  },
+  "keywords": [
+    "3d",
+    "mesh",
+    "extrude",
+    "2d",
+    "generate",
+    "convert",
+    "model"
+  ],
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
